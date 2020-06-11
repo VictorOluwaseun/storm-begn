@@ -1,0 +1,8 @@
+{
+  "name": "shop-inventory",
+  "version": "1.0.0",
+  "description": "An online shop inventory using node without any framework",
+  "main": "index.js",
+  "author": "Victor",
+  "license": "MIT"
+}
